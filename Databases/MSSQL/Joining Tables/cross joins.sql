@@ -1,0 +1,4 @@
+--Cross Joins
+
+SELECT * FROM PETS
+CROSS JOIN OWNERS
